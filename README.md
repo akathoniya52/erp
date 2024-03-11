@@ -31,6 +31,26 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Live url link - 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# 1 Home Page
+This is the home page of the web app. It features a navigation menu for easy access to different sections.
+
+![home-page](https://github.com/akathoniya52/erp/assets/54068272/a928b285-27c7-46d0-b16d-ff060df0e594)
+
+
+# 2 Product ManageMent Page
+This page displays all the products along with options to add, delete, and edit products.
+![Product-Page](https://github.com/akathoniya52/erp/assets/54068272/2a95be38-2c8d-4bce-b90f-d2112114fb1b)
+
+# 3 Orders Managements
+This page provides information on all orders. Admins can view order details, update order status, and delete orders as necessary.
+![Orders-page](https://github.com/akathoniya52/erp/assets/54068272/f0ffc827-b575-4949-8566-cc4e65cb8c3d)
+
+# 4 Calender View Page 
+This page displays a calendar with orders categorized by date. Admins can view orders for specific dates and access order details.
+![Calender-view-page](https://github.com/akathoniya52/erp/assets/54068272/4967e2a3-41ab-4a31-9640-284b4c8dc284)
+
+This web app is fully responsive and compatible with all devices.
+
+If you have any questions or need further assistance, reach me out!
