@@ -31,7 +31,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-Live url link - 
+Live url link - https://erp-amit.vercel.app/
 
 # 1 Home Page
 This is the home page of the web app. It features a navigation menu for easy access to different sections.
