@@ -56,7 +56,7 @@ const Orders = () => {
                         setToggle(true);
                       }}
                     >
-                      View Details
+                      View Details 
                     </button>
                     {/* Update order status button (optional) */}
                     <button
